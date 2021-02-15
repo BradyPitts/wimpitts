@@ -1,0 +1,50 @@
+﻿.banner{
+    position: relative;
+}
+/*
+.header {
+    font-size: 1550%;
+    text-shadow: 0px 0px 10px black;
+    color: #ffdb4d;
+    position: absolute;
+    top:10%;
+    left:15%;
+    text-align: center;
+}
+
+.headerln2 {
+    font-size: 1300%;
+    text-shadow: 0px 0px 10px black;
+    color: #ffdb4d;
+    position: absolute;
+    top: 45%;
+    left: 15%;
+    text-align: center;
+}
+
+*/
+.navigation {
+    width: 100%;
+    background-color: azure;
+    color: white;
+    text-align: center;
+/*    display: inline-block;*/
+    : 15%;
+}
+
+.home{
+
+}
+
+body{
+    background-color:lightgrey;
+}
+
+.mainarticle {
+/*    background-color: lightgrey;*/
+    color:black;
+    font-size: 20px;
+    text-align:center;
+    
+}
+
