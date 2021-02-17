@@ -1,54 +1,53 @@
-﻿.banner{
-    position: relative;
+﻿body{
+    padding: 0px;
+    margin: 0px;
 }
-/*
-.header {
-    font-size: 1550%;
-    text-shadow: 0px 0px 10px black;
-    color: #ffdb4d;
-    position: absolute;
-    top:10%;
-    left:15%;
-    text-align: center;
+header{
+    background-color: lightgray;
+    margin: 0px;
 }
 
-.headerln2 {
-    font-size: 1300%;
-    text-shadow: 0px 0px 10px black;
-    color: #ffdb4d;
-    position: absolute;
-    top: 45%;
-    left: 15%;
-    text-align: center;
-}
-
-*/
-.navigation {
+#banner{
+    margin: 0px;
     width: 100%;
-    background-color: azure;
-    color: white;
-    text-align: center;
-/*    display: inline-block;*/
-    : 15%;
+    /* height: 90%; */
 }
 
-.home{
+nav{
+    margin: 0px;
+    background-color: lightskyblue;
+    padding: 1%;
+}
+
+nav a{
+    /* display: inline-block; */
+    width: 10%
+    font-size: 150%;
+    margin: 0.5%;
 
 }
 
-body{
-    background-color:lightgrey;
+p{
+    margin:0px;
 }
 
-.mainarticle {
-/*    background-color: lightgrey;*/
-    color:black;
-    font-size: 20px;
-    text-align:center;
-    
+main{
+    margin: 0px;
+    background-color: lightgray;
+}
+
+article{
+    margin: 10%;
+    padding: 1%;
+    background-color: white;
+}
+
+#home{
+    width: 15%; 
 }
 
 footer{
+    font-size: 25px;
     background-color: grey;
+    text-shadow:0px 0px 5px white;
 }
-
