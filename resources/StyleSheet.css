@@ -21,10 +21,9 @@ nav{
 
 nav a{
     /* display: inline-block; */
-    width: 10%
+    width: 10%;
     font-size: 150%;
     margin: 0.5%;
-
 }
 
 p{
